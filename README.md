@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains all machine learning projects submitted under observation of Udacity.
+This repository contains all Machine Learning projects submitted under observation of Udacity.
