@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-## Introduction to Neural Networks
+## Deep Learning: Introduction to Neural Networks
 ## Lab: Analyzing Student Data
 
 ## Introduction
